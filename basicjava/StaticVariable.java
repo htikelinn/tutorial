@@ -1,3 +1,5 @@
+package basicjava;
+
 class StaticVariable {
     static int count; // declare static variable
     String name; // declare instance variable
