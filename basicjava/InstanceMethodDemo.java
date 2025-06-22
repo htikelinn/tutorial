@@ -1,3 +1,5 @@
+package basicjava;
+
 public class InstanceMethodDemo {
 
     private String format = "Hello %s%n";
