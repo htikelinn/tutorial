@@ -3,7 +3,6 @@ package scanner; //Define File location
 import java.util.Scanner; //import Scanner function
 
 import scanner.dto.Customer;
-import scanner.dto.Day;
 import scanner.services.CustomerService;
 
 //Start working main function

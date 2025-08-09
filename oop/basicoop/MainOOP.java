@@ -1,3 +1,5 @@
+package oop.basicoop;
+
 class MainOOP{
 	String fname ="Htin";
 	String lname ="Linn";

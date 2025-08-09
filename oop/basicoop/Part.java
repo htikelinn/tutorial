@@ -1,3 +1,4 @@
+package oop.basicoop;
 public class Part {
     private String name;
     private long number;

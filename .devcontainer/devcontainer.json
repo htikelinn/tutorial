@@ -1,0 +1,13 @@
+{
+  "name": "Java Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "workspaceFolder": "/workspaces",
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "vscjava.vscode-java-pack"  // Java Extension Pack
+  ]
+}

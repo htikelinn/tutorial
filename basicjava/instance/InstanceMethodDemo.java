@@ -1,4 +1,4 @@
-package basicjava;
+package basicjava.instance;
 
 public class InstanceMethodDemo {
 

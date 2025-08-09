@@ -1,3 +1,6 @@
+package oop.abstractc;
+import oop.basicoop.override;
+
 abstract class Abstract {
     abstract void turnON();
 

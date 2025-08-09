@@ -1,3 +1,4 @@
+package oop.basicoop;
 class OopSimple {
 
     // Declare Variabel
